@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["MoveRP","on top"];
+const statusMessages = ["Asteroid Roleplay","Bot stworzony przez Czlekowiek"];
 
 
 let currentIndex = 0;
